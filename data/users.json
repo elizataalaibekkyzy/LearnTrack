@@ -1,0 +1,16 @@
+[
+  {
+    "user_id": "user_001",
+    "name": "John Doe",
+    "email": "john.doe@company.com",
+    "manager_email": "manager@company.com",
+    "hire_date": "2025-01-01"
+  },
+  {
+    "user_id": "user_002",
+    "name": "Jane Smith",
+    "email": "jane.smith@company.com",
+    "manager_email": "manager@company.com",
+    "hire_date": "2025-01-05"
+  }
+]

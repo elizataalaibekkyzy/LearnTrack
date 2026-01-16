@@ -1,0 +1,54 @@
+[
+  {
+    "user_id": "user_001",
+    "enrollments": [
+      {
+        "course_id": "COURSE_001",
+        "status": "Completed",
+        "enrollment_date": "2025-01-01T08:00:00",
+        "start_date": "2025-01-01T09:00:00",
+        "completion_date": "2025-01-01T10:54:00"
+      },
+      {
+        "course_id": "COURSE_002",
+        "status": "Enrolled",
+        "enrollment_date": "2025-01-01T10:54:00",
+        "start_date": null,
+        "completion_date": null
+      },
+      {
+        "course_id": "COURSE_003",
+        "status": "In Progress",
+        "enrollment_date": "2025-01-01T10:54:00",
+        "start_date": "2025-01-01T14:15:00",
+        "completion_date": null
+      },
+      {
+        "course_id": "COURSE_004",
+        "status": "Completed",
+        "enrollment_date": "2025-01-01T10:54:00",
+        "start_date": "2025-01-01T11:07:00",
+        "completion_date": "2025-01-01T12:30:00"
+      }
+    ]
+  },
+  {
+    "user_id": "user_002",
+    "enrollments": [
+      {
+        "course_id": "COURSE_001",
+        "status": "In Progress",
+        "enrollment_date": "2025-01-05T08:00:00",
+        "start_date": "2025-01-05T09:00:00",
+        "completion_date": null
+      },
+      {
+        "course_id": "COURSE_002",
+        "status": "Enrolled",
+        "enrollment_date": "2025-01-05T10:00:00",
+        "start_date": null,
+        "completion_date": null
+      }
+    ]
+  }
+]

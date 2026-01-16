@@ -1,0 +1,53 @@
+# LearnTrack - Learning & Development Tracking System
+# Python package requirements
+
+# Core dependencies (all standard library - no external packages needed!)
+# This project is built using only Python standard library for maximum portability.
+
+# For production use, consider adding:
+# --------------------------------------------------
+
+# Database
+# psycopg2-binary==2.9.9  # PostgreSQL
+# pymongo==4.6.0          # MongoDB
+
+# Task Scheduling
+# APScheduler==3.10.4     # In-process task scheduling
+# celery==5.3.4           # Distributed task queue
+# redis==5.0.1            # Redis (for Celery broker)
+
+# Email Services
+# sendgrid==6.11.0        # SendGrid email service
+# boto3==1.34.0           # AWS SES
+
+# Web Framework (if adding API)
+# flask==3.0.0            # Lightweight web framework
+# fastapi==0.108.0        # Modern, fast API framework
+# uvicorn==0.25.0         # ASGI server for FastAPI
+
+# Testing
+# pytest==7.4.3           # Testing framework
+# pytest-cov==4.1.0       # Coverage plugin
+# pytest-asyncio==0.21.1  # Async testing
+
+# Code Quality
+# black==23.12.1          # Code formatter
+# flake8==6.1.0           # Linter
+# mypy==1.7.1             # Type checker
+# pylint==3.0.3           # Code analysis
+
+# Monitoring & Logging
+# python-json-logger==2.0.7
+# sentry-sdk==1.39.1
+
+# Configuration
+# python-dotenv==1.0.0    # Environment variables
+# pydantic==2.5.3         # Data validation
+
+# Utilities
+# python-dateutil==2.8.2  # Date utilities
+# pytz==2023.3.post1      # Timezone support
+
+# Development
+# ipython==8.18.1         # Enhanced Python shell
+# jupyter==1.0.0          # Notebooks for analysis

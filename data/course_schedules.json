@@ -1,0 +1,52 @@
+[
+  {
+    "course_id": "COURSE_001",
+    "days_to_complete": 2,
+    "batch": 0
+  },
+  {
+    "course_id": "COURSE_002",
+    "days_to_complete": 2,
+    "batch": 1
+  },
+  {
+    "course_id": "COURSE_003",
+    "days_to_complete": 2,
+    "batch": 1
+  },
+  {
+    "course_id": "COURSE_004",
+    "days_to_complete": 2,
+    "batch": 1
+  },
+  {
+    "course_id": "COURSE_005",
+    "days_to_complete": 2,
+    "batch": 2
+  },
+  {
+    "course_id": "COURSE_006",
+    "days_to_complete": 2,
+    "batch": 2
+  },
+  {
+    "course_id": "COURSE_007",
+    "days_to_complete": 2,
+    "batch": 3
+  },
+  {
+    "course_id": "COURSE_008",
+    "days_to_complete": 2,
+    "batch": 3
+  },
+  {
+    "course_id": "COURSE_009",
+    "days_to_complete": 2,
+    "batch": 4
+  },
+  {
+    "course_id": "COURSE_010",
+    "days_to_complete": 2,
+    "batch": 5
+  }
+]

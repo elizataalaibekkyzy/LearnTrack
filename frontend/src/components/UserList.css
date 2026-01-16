@@ -1,0 +1,123 @@
+.user-list {
+  animation: fadeIn 0.5s ease;
+}
+
+.page-header {
+  margin-bottom: 30px;
+}
+
+.page-header h2 {
+  font-size: 28px;
+  color: #2c3e50;
+  margin-bottom: 8px;
+}
+
+.page-header p {
+  color: #7f8c8d;
+  font-size: 16px;
+}
+
+.search-box {
+  margin-bottom: 24px;
+}
+
+.search-box input {
+  width: 100%;
+  max-width: 500px;
+  padding: 12px 16px;
+  font-size: 16px;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.search-box input:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.user-table {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+}
+
+.user-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table thead {
+  background-color: #f8f9fa;
+}
+
+.user-table th {
+  text-align: left;
+  padding: 16px 20px;
+  font-weight: 600;
+  color: #2c3e50;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.user-table td {
+  padding: 16px 20px;
+  border-top: 1px solid #ecf0f1;
+  color: #555;
+}
+
+.user-table tbody tr {
+  transition: background-color 0.2s ease;
+}
+
+.user-table tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+.user-name {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.btn-view {
+  display: inline-block;
+  padding: 6px 16px;
+  background-color: #667eea;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.btn-view:hover {
+  background-color: #5568d3;
+  transform: translateX(4px);
+}
+
+.user-count {
+  margin-top: 16px;
+  text-align: center;
+  color: #7f8c8d;
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .user-table {
+    overflow-x: auto;
+  }
+
+  .user-table table {
+    min-width: 600px;
+  }
+
+  .user-table th,
+  .user-table td {
+    padding: 12px 16px;
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": "2026-01-15T17:38:43.369808",
+    "to": "john.doe@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "[Action Required] Course Completion Reminder for John Doe",
+    "body": "\nHi John Doe,\n\nThis is a friendly reminder that you have courses that require your attention. \nThe following courses are overdue and need to be completed:\n\n  \u2022 COURSE_002: Not started - 11 days overdue\n  \u2022 COURSE_003: In progress but overdue - 11 days overdue\n\nPlease prioritize completing these courses to stay on track with your learning goals.\n\nIf you're experiencing any difficulties, please reach out to your manager or the L&D team.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "user_reminder",
+    "status_type": "needs reminder",
+    "course_ids": [
+      "COURSE_002",
+      "COURSE_003"
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T17:38:43.369837",
+    "to": "jane.smith@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "[Action Required] Course Completion Reminder for Jane Smith",
+    "body": "\nHi Jane Smith,\n\nThis is a friendly reminder that you have courses that require your attention. \nThe following courses are overdue and need to be completed:\n\n  \u2022 COURSE_001: In progress but overdue - 7 days overdue\n  \u2022 COURSE_002: Not started - 7 days overdue\n\nPlease prioritize completing these courses to stay on track with your learning goals.\n\nIf you're experiencing any difficulties, please reach out to your manager or the L&D team.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "user_reminder",
+    "status_type": "needs reminder",
+    "course_ids": [
+      "COURSE_001",
+      "COURSE_002"
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T17:38:43.369872",
+    "to": "manager@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "Daily Learning Progress Report - 2 Team Members",
+    "body": "\nHello,\n\nHere's your daily learning progress report for your team:\n\n\u26a0\ufe0f John Doe: 2 completed, 0 in progress, 2 needs attention\n\u26a0\ufe0f Jane Smith: 0 completed, 0 in progress, 2 needs attention\n\nTeam members with courses needing attention have been sent reminder emails.\n\nFor detailed progress information, please check the learning management dashboard.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "manager_summary",
+    "user_count": 2
+  },
+  {
+    "timestamp": "2026-01-15T17:45:31.119994",
+    "to": "john.doe@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "[Action Required] Course Completion Reminder for John Doe",
+    "body": "\nHi John Doe,\n\nThis is a friendly reminder that you have courses that require your attention. \nThe following courses are overdue and need to be completed:\n\n  \u2022 COURSE_002: Not started - 11 days overdue\n  \u2022 COURSE_003: In progress but overdue - 11 days overdue\n\nPlease prioritize completing these courses to stay on track with your learning goals.\n\nIf you're experiencing any difficulties, please reach out to your manager or the L&D team.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "user_reminder",
+    "status_type": "needs reminder",
+    "course_ids": [
+      "COURSE_002",
+      "COURSE_003"
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T17:45:31.120014",
+    "to": "jane.smith@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "[Action Required] Course Completion Reminder for Jane Smith",
+    "body": "\nHi Jane Smith,\n\nThis is a friendly reminder that you have courses that require your attention. \nThe following courses are overdue and need to be completed:\n\n  \u2022 COURSE_001: In progress but overdue - 7 days overdue\n  \u2022 COURSE_002: Not started - 7 days overdue\n\nPlease prioritize completing these courses to stay on track with your learning goals.\n\nIf you're experiencing any difficulties, please reach out to your manager or the L&D team.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "user_reminder",
+    "status_type": "needs reminder",
+    "course_ids": [
+      "COURSE_001",
+      "COURSE_002"
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T17:45:31.120092",
+    "to": "manager@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "Daily Learning Progress Report - 2 Team Members",
+    "body": "\nHello,\n\nHere's your daily learning progress report for your team:\n\n\u26a0\ufe0f John Doe: 2 completed, 0 in progress, 2 needs attention\n\u26a0\ufe0f Jane Smith: 0 completed, 0 in progress, 2 needs attention\n\nTeam members with courses needing attention have been sent reminder emails.\n\nFor detailed progress information, please check the learning management dashboard.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "manager_summary",
+    "user_count": 2
+  },
+  {
+    "timestamp": "2026-01-15T21:51:04.592489",
+    "to": "john.doe@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "[Action Required] Course Completion Reminder for John Doe",
+    "body": "\nHi John Doe,\n\nThis is a friendly reminder that you have courses that require your attention. \nThe following courses are overdue and need to be completed:\n\n  \u2022 COURSE_002: Not started - 11 days overdue\n  \u2022 COURSE_003: In progress but overdue - 11 days overdue\n\nPlease prioritize completing these courses to stay on track with your learning goals.\n\nIf you're experiencing any difficulties, please reach out to your manager or the L&D team.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "user_reminder",
+    "status_type": "needs reminder",
+    "course_ids": [
+      "COURSE_002",
+      "COURSE_003"
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T21:51:04.592516",
+    "to": "jane.smith@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "[Action Required] Course Completion Reminder for Jane Smith",
+    "body": "\nHi Jane Smith,\n\nThis is a friendly reminder that you have courses that require your attention. \nThe following courses are overdue and need to be completed:\n\n  \u2022 COURSE_001: In progress but overdue - 7 days overdue\n  \u2022 COURSE_002: Not started - 7 days overdue\n\nPlease prioritize completing these courses to stay on track with your learning goals.\n\nIf you're experiencing any difficulties, please reach out to your manager or the L&D team.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "user_reminder",
+    "status_type": "needs reminder",
+    "course_ids": [
+      "COURSE_001",
+      "COURSE_002"
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T21:51:04.592632",
+    "to": "manager@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "Daily Learning Progress Report - 2 Team Members",
+    "body": "\nHello,\n\nHere's your daily learning progress report for your team:\n\n\u26a0\ufe0f John Doe: 2 completed, 0 in progress, 2 needs attention\n\u26a0\ufe0f Jane Smith: 0 completed, 0 in progress, 2 needs attention\n\nTeam members with courses needing attention have been sent reminder emails.\n\nFor detailed progress information, please check the learning management dashboard.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "manager_summary",
+    "user_count": 2
+  },
+  {
+    "timestamp": "2026-01-15T22:15:05.506376",
+    "to": "john.doe@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "[Action Required] Course Completion Reminder for John Doe",
+    "body": "\nHi John Doe,\n\nThis is a friendly reminder that you have courses that require your attention. \nThe following courses are overdue and need to be completed:\n\n  \u2022 COURSE_002: Not started - 377 days overdue\n  \u2022 COURSE_003: In progress but overdue - 377 days overdue\n\nPlease prioritize completing these courses to stay on track with your learning goals.\n\nIf you're experiencing any difficulties, please reach out to your manager or the L&D team.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "user_reminder",
+    "status_type": "needs reminder",
+    "course_ids": [
+      "COURSE_002",
+      "COURSE_003"
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T22:15:05.506427",
+    "to": "jane.smith@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "[Action Required] Course Completion Reminder for Jane Smith",
+    "body": "\nHi Jane Smith,\n\nThis is a friendly reminder that you have courses that require your attention. \nThe following courses are overdue and need to be completed:\n\n  \u2022 COURSE_001: In progress but overdue - 373 days overdue\n  \u2022 COURSE_002: Not started - 373 days overdue\n\nPlease prioritize completing these courses to stay on track with your learning goals.\n\nIf you're experiencing any difficulties, please reach out to your manager or the L&D team.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "user_reminder",
+    "status_type": "needs reminder",
+    "course_ids": [
+      "COURSE_001",
+      "COURSE_002"
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T22:15:05.506489",
+    "to": "manager@company.com",
+    "from": "noreply@learningplatform.com",
+    "subject": "Daily Learning Progress Report - 2 Team Members",
+    "body": "\nHello,\n\nHere's your daily learning progress report for your team:\n\n\u26a0\ufe0f John Doe: 2 completed, 0 in progress, 2 needs attention\n\u26a0\ufe0f Jane Smith: 0 completed, 0 in progress, 2 needs attention\n\nTeam members with courses needing attention have been sent reminder emails.\n\nFor detailed progress information, please check the learning management dashboard.\n\nBest regards,\nLearning & Development Team\n",
+    "type": "manager_summary",
+    "user_count": 2
+  }
+]
